@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm Andreas
 
-<!--
-**AndreasMerrild/AndreasMerrild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a current student in Computer Science at Aarhus University at bachelor level (2024-2027). 
+My interest is very much to understand and explore different parts of Computer Science, and i'll be willing to try and learn about many aspects of Computer Science. 
 
-Here are some ideas to get you started:
+I'm currently learning/developing my skills in programming with programming exercises.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've got a bachelor and master degree in Sports Science and Health from Syddansk universitet. 
+Here i've gotten a knowledge about Health metrics, Sports science and Talent development along with working with projects. 
+Doing Sports Science i've also learned alot about how to interact with many different people, I've worked with talented youths, sports stars, pre schoolers, parents, and elderly doing my studies. 
+
+
+These two studies represent many of my interest, and i hope to be able to combine the two. 
+In my spare time i like to exercise, game and cook. 
