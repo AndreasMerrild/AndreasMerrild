@@ -13,3 +13,6 @@ Doing Sports Science i've also learned alot about how to interact with many diff
 
 These two studies represent many of my interest, and i hope to be able to combine the two. 
 In my spare time i like to exercise, game and cook. 
+
+
+[LinkedIn](https://www.linkedin.com/in/andreas-merrild-rasmussen/)
