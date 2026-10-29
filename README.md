@@ -10,6 +10,7 @@ I've got a bachelor and master degree in Sports Science and Health from Syddansk
 Here i've gotten a knowledge about Health metrics, Sports science and Talent development along with working with projects. 
 Doing Sports Science i've also learned alot about how to interact with many different people, I've worked with talented youths, sports stars, pre schoolers, parents, and elderly doing my studies. 
 
+These two studies are tried to get combined in my project FTPCalc, which is a system in development so that a person can do analysis of cycling training with a power meter. 
 
 These two studies represent many of my interest, and i hope to be able to combine the two. 
 In my spare time i like to exercise, game and cook. 
